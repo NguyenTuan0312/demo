@@ -1,0 +1,1066 @@
+/* -------------------------TRANG CHỦ ------------------------- */
+#info .navbar{
+  background-color: black;
+  color: white;
+  margin-bottom: auto;
+}
+#info .glyphicon{
+  margin-top: 20px;
+  margin-left: 5px;
+}
+#info button{
+  font-size: 12px;
+  margin: auto;
+  width: 70px;
+}
+#menu-bar .navbar{
+  background-color: white;
+  border: none;
+  height: 40px;
+  margin-bottom: auto;
+}
+#menu-bar .navbar-header img{
+  width: 40%;
+  margin-top: 15px;
+}
+#menu-bar .navbar-right a{
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+#menu-bar .navbar-collapse ul li:hover a{
+    color: #009ed4 ;
+}
+#menu-bar .navbar-collapse ul li a {
+    text-align: center;
+}
+#slider .carousel-caption{
+  bottom: 120px;
+}
+#slider .carousel-caption h1{
+  font-size: 50px;
+  font-family: "UVN Nguyen Du";
+  color: rgb(0, 158, 212);
+}
+#slider .carousel-caption button{
+    
+}
+#slider .carousel-caption p{
+  font-size: 17px;
+  font-family: "Open Sans";
+  color: rgb(78, 78, 78);
+}
+#slider .carousel-caption a{
+  border-width: 0.12px;
+  border-color: rgb(154, 196, 100);
+  border-style: solid;
+  border-radius: 10px;
+  background-color: rgb(0, 158, 212);
+  width: 100px;
+  height: 45px;
+}
+#sp-new{
+  margin-top: 20px;
+}
+#sp-new .carousel-control {
+    height: 40px;
+    width: 40px;
+    background: none repeat scroll 0 0 #029dd5;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 200px;
+}
+#sp-new .carousel-control.right {
+  right: -12px;
+}
+/* T ndicators */
+#sp-new.carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: -10px;
+  margin-right: -19px;
+}
+/* The colour of the indicators */
+#sp-new .carousel-indicators li {
+  background: #cecece;
+}
+#sp-new .carousel-indicators .active {
+background: #428bca;
+}
+#sp-new .thumbnail{
+  border-radius: 15px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 6px 21px 0px rgba(0, 0, 0, 0.19);
+  width: 350px;
+  height: 469px;
+  margin-top: 20px;
+  text-decoration-line: none;
+
+}
+#sp-new .item ul li{
+  list-style-type: none;
+  margin-left: 25px;
+  float: left;
+  margin-top: 10px;
+}
+#sp-new .item img{
+  margin-top: 20px;
+}
+#sp-new .item h3{
+  font-size: 24px;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+#sp-new .item h4{
+  font-size: 17px;
+  font-family: "Open Sans";
+  color: rgb(253, 110, 14);
+  
+}
+#sp-new .item p{
+  font-size: 13px;
+  font-family: "Open Sans";
+  width: 90%;
+  display: block;
+  margin: auto;
+  
+}
+#sp-new h1{
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 40px;
+}
+#new {
+  background-image: url("../img/bg-new.jpg");
+  background-size: 100%;
+  height: 400px;
+  margin-top: 80px;
+}
+#new .thumbnail{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 4.872px 1.125px 8px 0px rgba(0, 0, 0, 0.07);
+  text-decoration-line: none;
+  
+}
+#new .progress-bar{
+  background-color: #fd6e0e;
+
+}
+#new .progress{
+  background-color:#929292;
+}
+#new .thumbnail{
+  height: 400px;
+  text-decoration-line: none;
+}
+#new .caption ul li{
+  color: #39b0db;
+   margin-top: 15px;
+}
+
+#new .caption ul li a{
+  font-size: 12px;
+  font-family: "Open Sans";
+  color: rgb(146, 146, 146);
+  margin-top: 40px;
+}
+#new .caption button{
+  width: 100px;
+  height: 40px;
+  background-color: #39b0db;
+  color: white;
+  margin-top: 20px;
+}
+#new .caption h3{
+  font-size: 25px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+}
+#new .caption span{
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: rgb(253, 110, 14);
+  margin-left: 20px;
+}
+#new .caption h4{
+  font-size: 32px;
+  font-family: "Open Sans";
+  color: rgb(146, 146, 146);
+  font-weight: bold;
+  margin-top: 20px;
+
+}
+#new .item img{
+  width: 70%;
+  margin-top: 20px;
+  margin: auto;
+}
+#new .item .carousel-caption h1{
+  color: #39b0db;
+  font-weight: bold;
+bottom: 140px;
+}
+#new .carousel-indicators{
+  bottom: 80px;
+}
+#new .item h1{
+  font-size: 25px;
+  font-family: "Open Sans";
+  color: #3090ff;
+}
+#new .item p{
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(253, 110, 14);
+}
+#new .glyphicon{
+  color: #3090ff;
+}
+
+
+#spban{
+  margin-top: 40px;
+}
+#spban .carousel-control {
+    height: 40px;
+    width: 40px;
+    background: none repeat scroll 0 0 #029dd5;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 200px;
+}
+#spban .carousel-control.right {
+  right: -12px;
+}
+#spban .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: -10px;
+  margin-right: -19px;
+}
+
+#spban .item ul li{
+  list-style-type: none;
+  margin-left: 10px;
+  float: left;
+  margin-top: 40px;
+}
+#spban .thumbnail{
+  height: 400px;
+  margin-top: 30px;
+  text-decoration-line: none;
+}
+#spban h3{
+  font-size: 18px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+  margin-top: 50px;
+}
+#spban h4{
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: rgb(57, 176, 219);
+}
+#spban p{
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: #fd6e0e;
+}
+#spban h1{
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+#tintuc .carousel-indicators {
+  margin-left: 60px;
+  bottom: 100px;
+}
+#tintuc .carousel-indicators .active {
+  background-color: #e77f04;
+}
+#tintuc .carousel-indicators li{
+  background-color: #365f7b;
+  border: none;
+}
+#tintuc .item h2{
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: #009ed4;
+}
+#tintuc .item p{
+  font-size: 17px;
+  font-family: "Open Sans";
+
+}
+#tintuc h1{
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 40px;
+}
+#tintuc h4{
+  font-size: 18px;
+  font-family: "Open Sans";
+  color: rgb(14, 14, 14);
+}
+#tintuc h5{
+  color: #fd6e0e;
+   font-size: 15px;
+  font-family: "Open Sans";
+}
+
+#tintuc button{
+  width: 90px;
+  height: 40px;
+  color: white;
+  background-color: #009ed4;
+  margin-top: 30px;
+}
+
+#phukien h1{
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 60px;
+}
+#phukien img{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
+#phukien .thumbnail a{
+  position:relative;
+  overflow:hidden;
+   text-decoration-line: none;
+ }
+ #phukien .thumbnail {
+  height: 400px;
+  margin-top: 30px;
+  position:relative;
+  overflow:hidden;
+   text-decoration-line: none;
+ }
+ 
+#phukien .caption {
+    position:absolute;
+    top:0;
+    right:0;
+    background-color: red;
+    width:100%;
+    height:100%;
+    padding:2%;
+    display: none;
+    text-align: left;
+    color:#fff !important;
+    z-index:2;
+}
+#phukien button{
+  display: block;
+  margin: auto;
+}
+#phukien h3{
+  color: black;
+  font-size: 20px;
+  font-family: "Open Sans";
+}
+#phukien button{
+  color: 
+}
+
+#footer{
+  background-color: #029dd5;
+  margin-top: 30px;
+}
+#footer .row{
+  margin-top: 20px;
+}
+#footer img{
+  width: 65%;
+}
+#footer h1{
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+}
+#footer p{
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+}
+#footer h2{
+  font-size: 18px;
+  font-family: "Open Sans";
+   color: rgb(255, 255, 255);
+   text-decoration: none;
+}
+#footer hr{
+ width: 70px;
+ margin-left: 5px;
+}
+/* -------------TRANG SẢN PHẨM----- ----------------*/
+#sanpham{
+  margin-top: 40px;
+}
+#sanpham .carousel-control {
+    height: 40px;
+    width: 40px;
+    background: none repeat scroll 0 0 #029dd5;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 200px;
+}
+#sanpham .carousel-control.right {
+  right: -12px;
+}
+/* T ndicators */
+#sanpham .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: -10px;
+  margin-right: -19px;
+}
+#sanpham .item ul li{
+  list-style-type: none;
+  margin-left: 12px;
+  float: left;
+  margin-top: 40px;
+}
+#sanpham .thumbnail{
+  height: 250px;
+  margin-top: 30px;
+  background-color: #f9f9f9;
+  border: none;
+  text-decoration-line: none;
+}
+#sanpham  ul li{
+  list-style-type: none;
+  float: left;
+  display: block;
+  margin: auto;
+ 
+}
+#sanpham h1{
+  font-size: 22px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 20px;
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+#sanpham h2{
+  font-size: 17px;
+  font-family: "Open Sans";
+  color: black;
+  font-weight: bold;
+  margin-top: 40px;
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+#sanpham h6{
+  font-size: 13px;
+  font-family: "Open Sans";
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+#sanpham h7{
+  font-size: 13px;
+  font-family: "Open Sans";
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+#sanpham h3{
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#sanpham h4{
+  font-size: 12px;
+  font-family: "Open Sans";
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* -------------TRANG CHI TIET SAN PHAM -------*/
+#chitietsp .carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+}
+/* The controlsy */
+#chitietsp .carousel-control {
+  left: -12px;
+    height: 40px;
+  width: 40px;
+    background: none repeat scroll 0 0 #222222;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 90px;
+}
+#chitietsp .carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: -10px;
+  margin-right: -19px;
+}
+#chitietsp .carousel-indicators li {
+  background: #cecece;
+}
+#chitietsp .carousel-indicators .active {
+background: #428bca;
+}
+#chitietsp ul li{
+  list-style-type: none;
+  float: left;
+  margin-left: 10px;
+}
+#chitietsp button{
+  width: 200px;
+  height: 40px;
+  margin-top: 20px;
+  background-color: #009ed4;
+  color: white;
+}
+#chitietsp hr{
+  height: 0.5px;
+  background-color:#fd6e0e;
+  margin-top: 20px;
+}
+#chitietsp h2{
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: black;
+
+}
+#chitietsp h3{
+   font-size: 20px;
+  font-family: "Open Sans";
+  color: #009ed4;
+}
+#chitietsp h4{
+   font-size: 15px;
+  font-family: "Open Sans";
+  margin-top: 40px;
+}
+#chitietsp h7{
+  font-size: 12px;
+  font-family: "Open Sans";
+  margin-top: 40px;
+}
+#chitietsp h6{
+  font-size: 12px;
+  font-family: "Open Sans";
+}
+ #chitietsp h1{
+  font-size: 20px;
+  font-family: "Open Sans";
+  margin-top: 20px;
+  color: #009ed4;
+ }
+#spbanchay h2 {
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 70px;
+}
+#spbanchay h2 b {
+  color: #ffc000;
+}
+#spbanchay h2::after {
+   font-family: "Open Sans";
+  content: "";
+  width: 100px;
+  position: absolute;
+  margin: 0 auto;
+  height: 4px;
+  background: rgba(0, 0, 0, 0.2);
+  left: 0;
+  right: 0;
+  bottom: -20px;
+}
+#spbanchay .carousel {
+  margin: 50px auto;
+  padding: 0 70px;
+}
+#spbanchay .carousel .item {
+  min-height: 330px;
+    text-align: center;
+  overflow: hidden;
+}
+#spbanchay .carousel .item .img-box {
+  height: 160px;
+  width: 100%;
+  position: relative;
+}
+#spbanchay .carousel .item img { 
+  max-width: 100%;
+  max-height: 100%;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+#spbanchay .carousel .item h4 {
+  font-size: 18px;
+  margin: 10px 0;
+   font-family: "Open Sans";
+}
+#spbanchay .carousel .item .btn {
+  color: #333;
+    border-radius: 0;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: none;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin-top: 5px;
+    line-height: 16px;
+}
+#spbanchay .carousel .item .btn:hover, .carousel .item .btn:focus {
+  color: #fff;
+  background: #000;
+  border-color: #000;
+  box-shadow: none;
+}
+#spbanchay .carousel .item .btn i {
+  font-size: 14px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+#spbanchay .carousel .thumb-wrapper {
+  text-align: center;
+}
+#spbanchay .carousel .thumb-content {
+  padding: 15px;
+}
+#spbanchay .carousel .carousel-control {
+  height: 100px;
+    width: 40px;
+    background: none;
+    margin: auto 0;
+    background: rgba(0, 0, 0, 0.2);
+}
+#spbanchay .carousel .carousel-control i {
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    margin: -16px 0 0 0;
+    z-index: 5;
+    left: 0;
+    right: 0;
+    color: rgba(0, 0, 0, 0.8);
+    text-shadow: none;
+    font-weight: bold;
+}
+#spbanchay .carousel .item-price {
+  font-size: 13px;
+  padding: 2px 0;
+}
+#spbanchay .carousel .item-price strike {
+  color: #999;
+  margin-right: 5px;
+}
+#spbanchay .carousel .item-price span {
+  color: #009ed4;
+  font-size: 110%;
+}
+#spbanchay .carousel .carousel-control.left i {
+  margin-left: -3px;
+}
+#spbanchay .carousel .carousel-control.left i {
+  margin-right: -3px;
+}
+#spbanchay .carousel .carousel-indicators {
+  bottom: -50px;
+}
+#spbanchay .carousel-indicators li, .carousel-indicators li.active {
+  width: 10px;
+  height: 10px;
+  margin: 4px;
+  border-radius: 50%;
+  border-color: transparent;
+}
+ .carousel-indicators li { 
+  background: rgba(0, 0, 0, 0.2);
+}
+ .carousel-indicators li.active {  
+  background: rgba(0, 0, 0, 0.6);
+}
+#tinsp ul > li{margin-right:25px;font-weight:lighter;cursor:pointer}
+li.active{border-bottom:3px solid silver;
+}
+
+#tinsp .item-photo{
+  display:flex;justify-content:center;
+  align-items:center;
+  border-right:1px solid #31405f;
+}
+#tinsp .menu-items{
+  list-style-type:none;
+  font-size:15px;color:#31405f;
+  display:inline-flex;
+  margin-bottom:0;
+  margin-top:20px;
+}
+#tinsp .btn-success{
+  width:100%;
+  border-radius:0;
+}
+#tinsp .section{
+  width:100%;
+  margin-left:-15px;
+  padding:2px;
+  padding-left:15px;
+  padding-right:15px;
+  background:#f8f9f9
+}
+#tinsp .title-price{
+  margin-top:30px;
+  margin-bottom:0;
+  color:black;
+}
+#tinsp.title-attr{
+  margin-top:0;
+  margin-bottom:0;
+  color:black;
+}
+#tinsp .btn-minus{
+  cursor:pointer;
+  font-size:7px;
+  display:flex;
+  align-items:center;
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  border:1px solid gray;border-radius:2px;
+  border-right:0;
+}
+#tinsp .btn-plus{
+  cursor:pointer;
+  font-size:7px;
+  display:flex;
+  align-items:center;
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  border:1px solid gray;
+  border-radius:2px;
+  border-left:0;
+}
+div.section > div {
+  width:100%;display:inline-flex;
+}
+div.section > div > input { 
+  margin:0;padding-left:5px;
+  font-size:10px;
+  padding-right:5px;
+  max-width:18%;
+  text-align:center;
+}
+.attr,.attr2{
+  cursor:pointer;
+  margin-right:5px;
+  height:20px;
+  font-size:10px;
+  padding:2px;
+  border:1px solid gray;
+  border-radius:2px;
+}
+.attr.active,.attr2.active{ 
+  border:1px solid orange;
+}
+
+#menu-bar .navbar-default {
+  background-image:url("../img/bg2.jpg");
+  background-size: 100%;
+  height: 70px;
+}
+/* -----------------------TRANG TIN TUC------------- */
+
+
+/* ------------------------TRANG CHI TIET TIN TUC------------ */
+#chitiettt h1{
+  font-size: 22px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
+#chitiettt h2{
+  font-size: 17px;
+  font-family: "Open Sans";
+  color: black;
+  font-weight: bold;
+  margin-top: 30px;
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+#chitiettt  ul li{
+  list-style-type: none;
+  float: left;
+  margin: auto;
+ 
+}
+#chitiettt .col-md-9 img{
+  margin-top: 40px;
+}
+#chitiettt form{
+  height: 520px;
+  padding: 15px;
+}
+#chitiettt input#noidung{
+  width: 700px;
+  height: 120px;
+  border: 1px solid #adadad;
+}
+#chitiettt form button{
+  background-color: #009ed4 ;
+  color: white;
+  width: 200px;
+  height: 45px;
+  border-radius: 0;
+  margin-top: 20px;
+}
+/* -----------------------TRANG GIỚI THIỆU-------------- */
+#gioithieu1 h2{
+  font-size: 36px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  margin-top: 40px;
+}
+#gioithieu1 p{
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(0, 0, 0);
+}
+#gioithieu1 img{
+  margin-top: 30px;
+}
+
+
+#gioithieu2{
+  background-image:url("../img/bannergt.jpg");
+  background-size: 100%;
+  height: 450px;
+  margin-top: 40px;
+}
+#gioithieu2 h2{
+  font-size: 35px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  margin-left: 350px;
+  margin-top: 100px;
+}
+#gioithieu2 p{
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  margin-left: 380px;
+  margin-top: 40px;
+  width: 50%;
+}
+#gioithieu3 h1{
+  font-size: 25px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 30px;
+}
+#donvi h1{
+  font-size: 25px;
+  font-family: "Open Sans";
+  color: rgb(0, 158, 212);
+  font-weight: bold;
+  margin-top: 30px;
+}
+/* -----------------TRANG LIÊN HỆ----------- */
+#googleMap.map-2 {
+  height: 500px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#lienhe .contact-info li h3 {
+    color: #1b1b1b;
+    font-size: 22px;
+    margin: 7px 0;
+    text-transform: uppercase;
+}
+#lienhe .contact-info > li {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    float: none;
+    height: 95px;
+    padding: 30px;
+}
+#lienhe .contact-info {
+    background: #fff none repeat scroll 0 0;
+    bottom: -40px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.35);
+    position: absolute;
+    width: 400px;
+    bottom: 20px;
+}
+#lienhe .contact-info > li > i {
+  color: #555;
+  float: left;
+  font-size: 16px;
+  margin-right: 15px;
+  margin-top: 12px;
+}
+#lienhe .contact-info  li .text {overflow: hidden;}
+#lienhe .contact-info li .text p {color: #555;}
+/* social-share */
+#lienhe .contact-social.social-share li a {
+  margin-left: 60px;
+  opacity: 1;
+}
+#lienhe .contact-social.social-share li a i {
+  color: #555;
+  font-size: 22px;
+  margin-right: 0;
+}
+#lienhe .contact-social.social-share {
+  margin-top: 0;
+  position: inherit;
+}
+#lienhe .contact-social ul {
+  padding: 8px 0;
+}
+#dangky h1{
+  font-size: 25px;
+  font-family: "Open Sans";
+  color: #009ed4;
+  font-weight: bold;
+}
+#dangky p{
+  font-size: 14px;
+  font-family: "Open Sans";
+  margin-top: 20px;
+}
+#dangky form{
+  height: 400px;
+  padding: 15px;
+  margin-top: 20px;
+}
+#dangky input#noidung{
+  width: 500px;
+  height: 70px;
+  border: 1px solid #adadad;
+}
+#dangky button{
+  background-color: #009ed4;
+  color: white;
+  width: 100px;
+  height: 45px;
+  border-radius: 0;
+  margin-top: 20px;
+}
+/* --------------------TRANG ĐẠI LÝ------------- */
+#daily{
+  background-color: #f0f0f0;
+}
+#daily h1{
+  font-size: 30px;
+  font-family: "Open Sans";
+  color: #009ed4;
+  font-weight: bold;
+  margin-top: 50px;
+}
+#daily h2{
+  font-size: 27px;
+  font-family: "Open Sans";
+  color: #009ed4;
+  font-weight: bold;
+}
+#daily h3{
+  font-size: 20px;
+  font-family: "Open Sans";
+  color: #009ed4;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#daily h4{
+  font-size: 20px;
+  font-family: "Open Sans";
+}
+#daily button{
+  background-color: #e27e1d;
+  color: white;
+  font-family: "Open Sans";
+  margin-top: 30px;
+}
+#daily hr{
+  background-color: #009ed4;
+  height: 1px;
+}
+/* https://bootsnipp.com/snippets/2eKOz */
+/* ----------------TRANG GIO HANG----------- */
+#giohang {
+  margin-top: 30px;
+}
+#giohang th{
+  font-size: 18px;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#giohang tr td.khung{
+  border: 1px solid #929292;
+  margin-top: 20px;
+}
+#baogia h1{
+   font-size: 20px;
+  font-family: "Open Sans";
+  color: #009ed4;
+  font-weight: bold;
+  margin-top: 50px;
+}
+#baogia p{
+   font-size: 14px;
+  font-family: "Open Sans";
+  margin-top: 20px;
+}
+#baogia h2{
+  font-size: 18px;
+  font-family: "Open Sans";
+}
+#baogia h3{
+  font-size: 20px;
+  font-family: "Open Sans";
+  font-weight: bold;
+  margin-top: 50px;
+  float: right;
+  color: red;
+}
+#baogia button{
+  width: 70%;
+  height: 40px;
+  float: right;
+  margin-top: 20px;
+}
+#baogia button:hover{
+  color: white;
+  font-size: 15px;
+  background-color:#009ed4;
+}
+
